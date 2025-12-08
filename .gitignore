@@ -1,0 +1,16 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+
+# Visual Studio
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+
+# OS junk
+.DS_Store
+Thumbs.db
